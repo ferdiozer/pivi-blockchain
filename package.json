@@ -1,0 +1,19 @@
+{
+  "name": "blockchain-csprime",
+  "version": "1.0.0",
+  "description": "crypto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": {
+    "url": "https://www.ferdiozer.com",
+    "email": "info@ferdiozer.com",
+    "name": "Ferdi Özer"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
